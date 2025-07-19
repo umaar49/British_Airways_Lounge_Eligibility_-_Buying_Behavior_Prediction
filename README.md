@@ -81,7 +81,7 @@ This project predicts whether a customer will complete a booking based on their 
 
 ## 📫 About Me
 
-Muhammad Umar Saleem
+**Muhammad Umar Saleem**
 🎓 Electrical Engineering Graduate (June 2025)  
 🔍 Aspiring Data Scientist | Machine Learning & IoT Enthusiast  
 🔗 [LinkedIn](www.linkedin.com/in/umarsaleem49))
